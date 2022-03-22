@@ -1,0 +1,15 @@
+C:\Users\leehc\OneDrive\Documentos\Dio\Bootcamp Banco Carrefour\Projeto_RPG\bin\Debug\net6.0\Projeto_RPG.exe
+C:\Users\leehc\OneDrive\Documentos\Dio\Bootcamp Banco Carrefour\Projeto_RPG\bin\Debug\net6.0\Projeto_RPG.deps.json
+C:\Users\leehc\OneDrive\Documentos\Dio\Bootcamp Banco Carrefour\Projeto_RPG\bin\Debug\net6.0\Projeto_RPG.runtimeconfig.json
+C:\Users\leehc\OneDrive\Documentos\Dio\Bootcamp Banco Carrefour\Projeto_RPG\bin\Debug\net6.0\Projeto_RPG.dll
+C:\Users\leehc\OneDrive\Documentos\Dio\Bootcamp Banco Carrefour\Projeto_RPG\bin\Debug\net6.0\Projeto_RPG.pdb
+C:\Users\leehc\OneDrive\Documentos\Dio\Bootcamp Banco Carrefour\Projeto_RPG\obj\Debug\net6.0\Projeto_RPG.csproj.AssemblyReference.cache
+C:\Users\leehc\OneDrive\Documentos\Dio\Bootcamp Banco Carrefour\Projeto_RPG\obj\Debug\net6.0\Projeto_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leehc\OneDrive\Documentos\Dio\Bootcamp Banco Carrefour\Projeto_RPG\obj\Debug\net6.0\Projeto_RPG.AssemblyInfoInputs.cache
+C:\Users\leehc\OneDrive\Documentos\Dio\Bootcamp Banco Carrefour\Projeto_RPG\obj\Debug\net6.0\Projeto_RPG.AssemblyInfo.cs
+C:\Users\leehc\OneDrive\Documentos\Dio\Bootcamp Banco Carrefour\Projeto_RPG\obj\Debug\net6.0\Projeto_RPG.csproj.CoreCompileInputs.cache
+C:\Users\leehc\OneDrive\Documentos\Dio\Bootcamp Banco Carrefour\Projeto_RPG\obj\Debug\net6.0\Projeto_RPG.dll
+C:\Users\leehc\OneDrive\Documentos\Dio\Bootcamp Banco Carrefour\Projeto_RPG\obj\Debug\net6.0\refint\Projeto_RPG.dll
+C:\Users\leehc\OneDrive\Documentos\Dio\Bootcamp Banco Carrefour\Projeto_RPG\obj\Debug\net6.0\Projeto_RPG.pdb
+C:\Users\leehc\OneDrive\Documentos\Dio\Bootcamp Banco Carrefour\Projeto_RPG\obj\Debug\net6.0\Projeto_RPG.genruntimeconfig.cache
+C:\Users\leehc\OneDrive\Documentos\Dio\Bootcamp Banco Carrefour\Projeto_RPG\obj\Debug\net6.0\ref\Projeto_RPG.dll
